@@ -1,7 +1,7 @@
 # IBM-machine-learning-capstone-project
 
 # Introduction
-The aim of the project was to analyse loan status of customers and to claasify them appropiately using Knn classifier, decisionTree, SVM and Logistic Regression.
+The aim of the project is to analyse loan status of customers and to classify them appropiately using Knn classifier, decisionTree, SVM and Logistic Regression.
 
 # Modelling
 1. Before delivering data to the model, the data was preprocessed.
